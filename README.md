@@ -1,9 +1,17 @@
 <h1 align="center">Hello everyone! 👋 I'm Juan Jose</h1>
 
 <h3 align="center">I love programming, movies and sports.</h3>
+**VISITOR COUNT**
 
+![Visitor Count](https://profile-counter.glitch.me/{JuanJoseLL}/count.svg)
 
+- 🌌 I’m studying in ICESI university **Personal projects**
 
+- 💀 I’m currently learning **Java, C++, Python and R**
+
+- 👽 I’m interested in **Quantum Computing**
+
+- 🔭  Ask me about **Astronomy and books**
 
 </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -34,6 +42,8 @@
       </a>
       <br>Scala
     </td>
+
+
    
 
      
