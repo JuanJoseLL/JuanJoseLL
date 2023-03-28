@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l3c614V12UA82q1vG/giphy-downsized-large.gif" width="200">
+</div>
 <!--
 **JuanJoseLL/JuanJoseLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
