@@ -1,13 +1,13 @@
 <h1 align="center">Hello everyone! 👋 I'm Juan José</h1>
 
 <h3 align="center">I love programming, movies and sports.</h3>
-**VISITOR COUNT**
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{JuanJoseLL}/count.svg)
 ````
 const JuanJoseLL ={
         code = [Python, Java, Scala, C++];
-        architecture = ["factory pattern", "event-driven", "birdge pattern", "protoripes"];
+        architecture = ["factory pattern", "event-driven", "bridge pattern", "prototipes"];
         recommendedFilms: { 
                               sciFi: "Arrival";
                               accion: "Creed";
