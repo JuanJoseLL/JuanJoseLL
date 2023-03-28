@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone! 👋 I'm Juan José</h1>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/103261155/228106848-42aaf064-c1d8-4b48-90dc-6b3444cd94c4.gif"/>
+
 <h3 align="center">I love programming, movies and sports.</h3>
 **VISITOR COUNT**
 
@@ -18,6 +18,8 @@ const JuanJoseLL ={
 
 
 ````
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/103261155/228106848-42aaf064-c1d8-4b48-90dc-6b3444cd94c4.gif"/>
+
 - 🌌 I’m studying in ICESI university **Personal projects**
 
 - 💀 I’m currently learning **Java, C++, Python and R**
@@ -25,7 +27,6 @@ const JuanJoseLL ={
 - 👽 I’m interested in **Quantum Computing**
 
 - 🔭  Ask me about **Astronomy and books**
-
 </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
