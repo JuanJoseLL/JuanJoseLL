@@ -1,4 +1,5 @@
 <h1 align="center">Hello everyone! 👋 I'm Juan José</h1>
+![me](https://user-images.githubusercontent.com/103261155/228106848-42aaf064-c1d8-4b48-90dc-6b3444cd94c4.gif)
 
 <h3 align="center">I love programming, movies and sports.</h3>
 **VISITOR COUNT**
