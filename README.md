@@ -4,7 +4,20 @@
 **VISITOR COUNT**
 
 ![Visitor Count](https://profile-counter.glitch.me/{JuanJoseLL}/count.svg)
+````
+const JuanJoseLL ={
+        code = [Python, Java, Scala, C++];
+        architecture = ["factory pattern", "event-driven", "birdge pattern", "protoripes"];
+        recommendedFilms: { 
+                              sciFi: "Arrival";
+                              accion: "Creed";
+                              adventure: "Avatar";
+                            }
+        // Learning the basics of Quantum computing!!                    
+       }                   
 
+
+````
 - 🌌 I’m studying in ICESI university **Personal projects**
 
 - 💀 I’m currently learning **Java, C++, Python and R**
