@@ -1,18 +1,39 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3c614V12UA82q1vG/giphy-downsized-large.gif" width="200">
-</div>
-<!--
-**JuanJoseLL/JuanJoseLL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello everyone! 👋 I'm Juan Jose</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">I love programming, movies and sports.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+</p>
+<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+> Tools, languages, and other things that I like to work with.
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg" width="48" height="48" alt="Scala" />
+      </a>
+      <br>Scala
+    </td>
+   
+
+     
