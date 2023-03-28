@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone! 👋 I'm Juan Jose</h1>
+<h1 align="center">Hello everyone! 👋 I'm Juan José</h1>
 
 <h3 align="center">I love programming, movies and sports.</h3>
 **VISITOR COUNT**
