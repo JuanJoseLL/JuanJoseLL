@@ -6,7 +6,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{JuanJoseLL}/count.svg)
 ````
 const JuanJoseLL ={
-        code = [Python, Java, Scala, C++];
+        code = [Python, Java, Scala, C++, HTML, CSS];
         architecture = ["factory pattern", "event-driven", "bridge pattern", "prototipes"];
         recommendedFilms: { 
                               sciFi: "Arrival";
