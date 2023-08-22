@@ -25,8 +25,9 @@ const JuanJoseLL ={
 - 💀 I’m currently learning **Java, C++, Python and R**
 
 - 👽 I’m interested in **Quantum Computing**
+  
+- 🔓 Cybersecurity analist with **Microsoft 365**
 
-- 🔭  Ask me about **Astronomy and books**
 </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
