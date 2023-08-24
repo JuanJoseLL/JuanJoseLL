@@ -62,6 +62,18 @@ const JuanJoseLL ={
       </a>
       <br>Scala
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="icons8-windows-defender.svg" width="48" height="48" alt="Defender" />
+      </a>
+      <br>Defender
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="icons8-windows-defender.svg" width="48" height="48" alt="Defender" />
+      </a>
+      <br>Defender
+    </td>
     
 
 
