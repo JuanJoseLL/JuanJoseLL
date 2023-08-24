@@ -4,7 +4,6 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{JuanJoseLL}/count.svg)
-![Metrics](https://metrics.lecoq.io/darkcodersctemplate=classic&base.indepth=true)
 ````
 const JuanJoseLL ={
         code = [Python, Java, Scala, C++, HTML, CSS];
@@ -58,12 +57,7 @@ const JuanJoseLL ={
       </a>
       <br>Scala
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://iconos8.es/icon/YztviYmQLfhl/windows-defender" width="48" height="48" alt="Defender" />
-      </a>
-      <br>Defender
-    </td>
+    
 
 
     
