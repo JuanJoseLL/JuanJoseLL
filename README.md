@@ -70,9 +70,9 @@ const JuanJoseLL ={
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="icons8-windows-defender.svg" width="48" height="48" alt="Defender" />
+        <img src="icons8-microsoft-365.svg" width="48" height="48" alt="Microsoft 365" />
       </a>
-      <br>Defender
+      <br>Microsoft 365
     </td>
     
 
