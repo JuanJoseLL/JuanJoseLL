@@ -28,6 +28,11 @@ const JuanJoseLL ={
   
 - 🔓 Cybersecurity analist with **Microsoft 365**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/juan-jose-lopez-lopez-73214b279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Jose" height="30" width="40" /></a>
+</p>
+
 </p>
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 > Tools, languages, and other things that I like to work with.
