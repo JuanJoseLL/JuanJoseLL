@@ -59,11 +59,11 @@ const JuanJoseLL ={
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg](https://iconos8.es/icon/YztviYmQLfhl/windows-defender
-)" width="48" height="48" alt="Defender" />
+        <img src="https://iconos8.es/icon/YztviYmQLfhl/windows-defender" width="48" height="48" alt="Defender" />
       </a>
       <br>Defender
     </td>
+    
 
 
    
