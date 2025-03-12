@@ -12,8 +12,7 @@
 
 ```javascript
 const JuanJoseLL = {
-    code: ["Python", "Java", "Scala", "C++", "HTML", "CSS"],
-    architecture: ["Factory Pattern", "Event-Driven", "Bridge Pattern", "Prototypes"],
+    code: ["Python", "Java", "TypeScript", "Go", "HTML", "Tailwind"],
     education: "ICESI University",
     interests: ["Quantum Computing", "AI", "Cybersecurity"],
     currentFocus: "Building personal projects while learning new technologies",
@@ -29,7 +28,7 @@ const JuanJoseLL = {
 <p>
   <ul>
     <li>🌌 I'm studying at ICESI University and working on personal projects</li>
-    <li>🚀 Currently mastering Java, C++, Python and R</li>
+    <li>🚀 Currently mastering Java, Go Python and TypeScript</li>
     <li>👽 Passionate about Quantum Computing and its applications</li>
     <li>🔓 Cybersecurity analyst with Microsoft 365 certification</li>
     <li>📚 Always looking to collaborate on innovative projects</li>
@@ -54,9 +53,9 @@ const JuanJoseLL = {
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       </a>
-      <br>C++
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="#tech">
@@ -110,9 +109,9 @@ const JuanJoseLL = {
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://qiskit.org/documentation/stable/0.19/_static/logo.png" width="48" height="48" alt="Qiskit" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Qiskit" />
       </a>
-      <br>Qiskit
+      <br>Azure
     </td>
   </tr>
 </table>
