@@ -25,19 +25,12 @@ const JuanJoseLL = {
 };                   
 ```
 
-<p>
-  <ul>
-    <li>🌌 Software Developer studying at ICESI University</li>
-    <li>🚀 Currently mastering Java, Go, Python and TypeScript</li>
-    <li>👽 Passionate about Quantum Computing and its applications</li>
-    <li>🔓 Cybersecurity analyst with Microsoft 365 certification</li>
-    <li>📚 Always looking to collaborate on innovative projects</li>
-  </ul>
-</p>
-
 ## 🛠️ Tech Stack
 
-### 🔙 Backend
+<table>
+<tr>
+<td valign="top">
+<strong> 🔙 Backend </strong>
 <table>
   <tr>
     <td align="center" width="96">
@@ -59,15 +52,16 @@ const JuanJoseLL = {
       <br>Django
     </td>
     <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
+      <a href="#tech">      
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
       </a>
       <br>NestJS
     </td>
   </tr>
 </table>
-
-### 🖥️ Frontend
+</td>
+<td valign="top">
+<strong>🖥️ Frontend</strong> 
 <table>
   <tr>
     <td align="center" width="96">
@@ -90,14 +84,17 @@ const JuanJoseLL = {
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
       </a>
       <br>Tailwind
     </td>
   </tr>
 </table>
-
-### 🗄️ Databases
+</td>
+</tr>
+<tr>
+<td valign="top">
+<strong>🗄️ Databases</strong> 
 <table>
   <tr>
     <td align="center" width="96">
@@ -126,8 +123,9 @@ const JuanJoseLL = {
     </td>
   </tr>
 </table>
-
-### ☁️ DevOps & Cloud
+</td>
+<td valign="top">
+<strong>☁️ DevOps & Cloud</strong> 
 <table>
   <tr>
     <td align="center" width="96">
@@ -144,7 +142,7 @@ const JuanJoseLL = {
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
       </a>
       <br>GitHub Actions
     </td>
@@ -154,13 +152,13 @@ const JuanJoseLL = {
       </a>
       <br>Azure
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
       </a>
       <br>AWS
     </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
       </a>
@@ -168,8 +166,11 @@ const JuanJoseLL = {
     </td>
   </tr>
 </table>
-
-### 💻 Languages
+</td>
+</tr>
+<tr>
+<td valign="top">
+<strong> 💻 Languages</strong>
 <table>
   <tr>
     <td align="center" width="96">
@@ -196,12 +197,11 @@ const JuanJoseLL = {
       </a>
       <br>TypeScript
     </td>
-    
-    
   </tr>
 </table>
-
-### 🔧 Tools
+</td>
+<td valign="top">
+<strong>🔧 Tools</strong> 
 <table>
   <tr>
     <td align="center" width="96">
@@ -224,7 +224,9 @@ const JuanJoseLL = {
     </td>
   </tr>
 </table>
-
+</td>
+</tr>
+</table>
 ## 📊 GitHub Stats
 
 <div align="center">
