@@ -15,20 +15,20 @@ const JuanJoseLL = {
     code: ["Python", "Java", "TypeScript", "Go", "HTML", "Tailwind"],
     education: "ICESI University",
     interests: ["Quantum Computing", "AI", "Cybersecurity"],
-    currentFocus: "Building personal projects while learning new technologies",
+    currentFocus: "Building scalable applications with modern tech stacks",
     recommendedFilms: { 
         sciFi: "Arrival",
         action: "Creed",
         adventure: "Avatar"
     },
-    funFact: "Learning the basics of Quantum computing!!"                    
+    funFact: "Exploring quantum algorithms in my free time!"                    
 };                   
 ```
 
 <p>
   <ul>
-    <li>🌌 I'm studying at ICESI University and working on personal projects</li>
-    <li>🚀 Currently mastering Java, Go Python and TypeScript</li>
+    <li>🌌 Software Developer studying at ICESI University</li>
+    <li>🚀 Currently mastering Java, Go, Python and TypeScript</li>
     <li>👽 Passionate about Quantum Computing and its applications</li>
     <li>🔓 Cybersecurity analyst with Microsoft 365 certification</li>
     <li>📚 Always looking to collaborate on innovative projects</li>
@@ -37,6 +37,139 @@ const JuanJoseLL = {
 
 ## 🛠️ Tech Stack
 
+### 🔙 Backend
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+  </tr>
+</table>
+
+### 🖥️ Frontend
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+      </a>
+      <br>Oracle
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+
+### ☁️ DevOps & Cloud
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+      </a>
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
+      </a>
+      <br>GitHub Actions
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+### 💻 Languages
 <table>
   <tr>
     <td align="center" width="96">
@@ -47,36 +180,36 @@ const JuanJoseLL = {
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg" width="48" height="48" alt="Scala" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
-      <br>Scala
+      <br>Python
     </td>
     <td align="center" width="96">
       <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>HTML5
+      <br>TypeScript
     </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS3
-    </td>
+    
+    
   </tr>
+</table>
+
+### 🔧 Tools
+<table>
   <tr>
+    <td align="center" width="96">
+      <a href="#tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
     <td align="center" width="96">
       <a href="#tech">
         <img src="icons8-windows-defender.svg" width="48" height="48" alt="Defender" />
@@ -88,30 +221,6 @@ const JuanJoseLL = {
         <img src="icons8-microsoft-365.svg" width="48" height="48" alt="Microsoft 365" />
       </a>
       <br>Microsoft 365
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" />
-      </a>
-      <br>R
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Qiskit" />
-      </a>
-      <br>Azure
     </td>
   </tr>
 </table>
@@ -132,6 +241,49 @@ const JuanJoseLL = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JuanJoseLL&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <div align="center">  
+        <a href="https://github.com/JuanJoseLL/your-project-1" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=Your+Project+Image" alt="Project 1" height="180px" />
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/JuanJoseLL/your-project-1" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00B2FF?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+          </a>  
+          <a href="https://your-project-1.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00B2FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live" />
+          </a>
+        </p>
+        <p><strong>Java, Spring Boot, PostgreSQL</strong> - A description of your amazing project and what problem it solves.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <div align="center">  
+        <a href="https://github.com/JuanJoseLL/your-project-2" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=Your+Project+Image" alt="Project 2" height="180px" />
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/JuanJoseLL/your-project-2" target="_blank">
+            <img src="https://img.shields.io/badge/Code-00B2FF?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
+          </a>  
+          <a href="https://your-project-2.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00B2FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live" />
+          </a>
+        </p>
+        <p><strong>React, NextJS, MongoDB</strong> - A description of your amazing project and what problem it solves.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🎬 My Recommended Films
 
