@@ -8,22 +8,8 @@
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/103261155/228106848-42aaf064-c1d8-4b48-90dc-6b3444cd94c4.gif"/>
 
-## 👨‍💻 About Me
+           
 
-```javascript
-const JuanJoseLL = {
-    code: ["Python", "Java", "TypeScript", "Go", "HTML", "Tailwind"],
-    education: "ICESI University",
-    interests: ["Quantum Computing", "AI", "Cybersecurity"],
-    currentFocus: "Building scalable applications with modern tech stacks",
-    recommendedFilms: { 
-        sciFi: "Arrival",
-        action: "Creed",
-        adventure: "Avatar"
-    },
-    funFact: "Exploring quantum algorithms in my free time!"                    
-};                   
-```
 
 ## 🛠️ Tech Stack
 
@@ -244,48 +230,6 @@ const JuanJoseLL = {
   <img src="https://github-profile-trophy.vercel.app/?username=JuanJoseLL&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <div align="center">  
-        <a href="https://github.com/JuanJoseLL/your-project-1" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Your+Project+Image" alt="Project 1" height="180px" />
-        </a>
-        <br><br>
-        <p>
-          <a href="https://github.com/JuanJoseLL/your-project-1" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00B2FF?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>  
-          <a href="https://your-project-1.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-00B2FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live" />
-          </a>
-        </p>
-        <p><strong>Java, Spring Boot, PostgreSQL</strong> - A description of your amazing project and what problem it solves.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <div align="center">  
-        <a href="https://github.com/JuanJoseLL/your-project-2" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Your+Project+Image" alt="Project 2" height="180px" />
-        </a>
-        <br><br>
-        <p>
-          <a href="https://github.com/JuanJoseLL/your-project-2" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00B2FF?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-          </a>  
-          <a href="https://your-project-2.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live-00B2FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live" />
-          </a>
-        </p>
-        <p><strong>React, NextJS, MongoDB</strong> - A description of your amazing project and what problem it solves.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ## 🎬 My Recommended Films
 
