@@ -1,262 +1,106 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Hello+everyone!+%F0%9F%91%8B+I'm+Juan+Jos%C3%A9;Software+Developer;Quantum+Computing+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
+# Hi there! 👋 I'm Juan José
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{JuanJoseLL}/count.svg" alt="visitor counter" />
+  
+**Software Developer • Quantum Computing Enthusiast • Problem Solver**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-lopez-lopez-73214b279)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanJoseLL)
+
+![Profile Views](https://profile-counter.glitch.me/{JuanJoseLL}/count.svg)
+
 </div>
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/103261155/228106848-42aaf064-c1d8-4b48-90dc-6b3444cd94c4.gif"/>
+---
 
-           
+## 🚀 About Me
 
+I'm passionate about building scalable software solutions and exploring the fascinating world of quantum computing. I love tackling complex problems and turning innovative ideas into reality.
+
+<img align="right" alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/103261155/228106848-42aaf064-c1d8-4b48-90dc-6b3444cd94c4.gif"/>
+
+- 🔭 Currently working on quantum computing projects
+- 🌱 Always learning new technologies
+- 💡 Open to collaborating on interesting projects
+- ⚡ Fun fact: I believe the best code is simple code
+
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top">
-<strong> 🔙 Backend </strong>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
-      </a>
-      <br>FastAPI
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">      
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-      </a>
-      <br>NestJS
-    </td>
-  </tr>
-</table>
-</td>
-<td valign="top">
-<strong>🖥️ Frontend</strong> 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr>
-</table>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<strong>🗄️ Databases</strong> 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
-      </a>
-      <br>Oracle
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
-</td>
-<td valign="top">
-<strong>☁️ DevOps & Cloud</strong> 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-      </a>
-      <br>GitHub Actions
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>
-     <td align="center" width="96">
-      <a href="#tech">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-      </a>
-      <br>AWS
-    </td>
-     <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<strong> 💻 Languages</strong>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
-</td>
-<td valign="top">
-<strong>🔧 Tools</strong> 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="icons8-windows-defender.svg" width="48" height="48" alt="Defender" />
-      </a>
-      <br>Defender
-    </td>
-    <td align="center" width="96">
-      <a href="#tech">
-        <img src="icons8-microsoft-365.svg" width="48" height="48" alt="Microsoft 365" />
-      </a>
-      <br>Microsoft 365
-    </td>
-  </tr>
-</table>
-</td>
-</tr>
-</table>
-## 📊 GitHub Stats
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseLL&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseLL&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanJoseLL&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseLL&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseLL&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseLL&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 🎬 Favorite Films
+
+> *Great stories inspire great code*
+
+| 🎭 **Genre** | 🎬 **Film** | 💭 **Why I Love It** |
+|:---:|:---:|:---|
+| 🚀 Sci-Fi | **Arrival** | Innovative storytelling and deep philosophical themes |
+| 🥊 Action | **Creed** | Character development and motivational journey |
+| 🌍 Adventure | **Avatar** | Groundbreaking visuals and world-building |
+
+---
+
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanJoseLL&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JuanJoseLL&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
-
-## 🎬 My Recommended Films
-
-| Category   | Film       | Why I Love It                                   |
-|------------|------------|------------------------------------------------|
-| Sci-Fi     | Arrival    | Innovative storytelling and deep philosophical themes |
-| Action     | Creed      | Great character development and motivational story |
-| Adventure  | Avatar     | Groundbreaking visuals and immersive world-building |
-
-## 📫 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-jose-lopez-lopez-73214b279" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/JuanJoseLL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+---
 
 <div align="center">
+  
+### 💬 Let's Connect!
 
-### 👨‍💻 Happy Coding! 👨‍💻
+*Always open to interesting conversations about technology, quantum computing, or your next big idea.*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="100" />
+**Happy Coding!** 🚀
 
 </div>
