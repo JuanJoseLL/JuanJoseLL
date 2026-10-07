@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="542" viewBox="0 0 640 542" role="img" aria-labelledby="title desc">
+  <title id="title">El arsenal — versión móvil</title>
+  <desc id="desc">Los mismos lenguajes, frameworks, bases de datos y herramientas de infraestructura del laboratorio, distribuidos en dos columnas para pantallas pequeñas.</desc>
+  <style>.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}.sans{font-family:Arial,Helvetica,sans-serif}</style>
+  <rect x="1" y="1" width="638" height="540" rx="18" fill="#090d18" stroke="#2a3048"/>
+  <path d="M320 24V518M24 181H616M24 361H616" stroke="#262c43"/>
+  <g class="mono" font-size="14" letter-spacing="1" fill="#65f4dc">
+    <text x="26" y="38">01 / LANGUAGES</text><text x="346" y="38">02 / INTERFACES</text>
+    <text x="26" y="218">03 / BACKEND</text><text x="346" y="218">04 / DATA</text>
+    <text x="26" y="398">05 / CLOUD</text><text x="346" y="398">06 / AUTOMATION</text>
+  </g>
+  <g class="sans" font-size="29" font-weight="700" fill="#edf1ff">
+    <text x="26" y="84">Java · Python</text><text x="346" y="84">React · Next.js</text>
+    <text x="26" y="264">Spring Boot</text><text x="346" y="264">PostgreSQL</text>
+    <text x="26" y="444">AWS · Azure</text><text x="346" y="444">GitHub Actions</text>
+  </g>
+  <g class="sans" font-size="24" fill="#a5b1cd">
+    <text x="26" y="122">TypeScript · Go</text><text x="346" y="122">Vue · Tailwind</text>
+    <text x="26" y="302">FastAPI · Django</text><text x="346" y="302">MongoDB · Redis</text>
+    <text x="26" y="337">NestJS</text><text x="346" y="337">Oracle</text>
+    <text x="26" y="482">Docker · Terraform</text><text x="346" y="482">Jenkins · Ansible</text>
+  </g>
+  <g stroke="#b49aff" stroke-width="3"><path d="M26 158h32M346 158h32M26 518h32M346 518h32"/></g>
+</svg>

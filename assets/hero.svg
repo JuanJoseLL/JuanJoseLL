@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">Juan José — Quantum / Human</title>
+  <desc id="desc">Un laboratorio de software con un núcleo orbital animado, estrellas y una terminal. Software, sistemas e ideas en superposición.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#090d18"/><stop offset="1" stop-color="#13132b"/></linearGradient>
+    <linearGradient id="ink"><stop stop-color="#65f4dc"/><stop offset="1" stop-color="#b49aff"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#7960e8" stop-opacity=".24"/><stop offset="1" stop-color="#7960e8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8b9cce" stroke-opacity=".065"/></pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .orbit{transform-origin:963px 247px;animation:orbit 24s linear infinite}
+    .reverse{animation-direction:reverse;animation-duration:32s}
+    .pulse{animation:pulse 4s ease-in-out infinite}
+    .cursor{animation:cursor 1.4s steps(2,end) infinite}
+    .flow{animation:flow 12s linear infinite}
+    @keyframes orbit{to{transform:rotate(360deg)}}
+    @keyframes pulse{50%{opacity:.35}}
+    @keyframes cursor{50%{opacity:0}}
+    @keyframes flow{to{stroke-dashoffset:-240}}
+    @media(prefers-reduced-motion:reduce){.orbit,.pulse,.cursor,.flow{animation:none!important}}
+  </style>
+  <rect x="1" y="1" width="1198" height="508" rx="22" fill="url(#bg)" stroke="#2a3048"/>
+  <rect x="2" y="2" width="1196" height="506" rx="21" fill="url(#grid)"/>
+  <circle cx="963" cy="247" r="257" fill="url(#halo)"/>
+  <path d="M32 66H1168" stroke="#262c43"/>
+  <g class="mono" font-size="12" letter-spacing="2" fill="#8f9cba">
+    <text x="58" y="42">JJ / PERSONAL LAB</text>
+    <text x="937" y="42">CURIOSITY: ONLINE</text>
+  </g>
+  <circle class="pulse" cx="915" cy="38" r="4" fill="#65f4dc"/>
+  <g fill="#8b9cce">
+    <circle cx="764" cy="114" r="2"/><circle cx="1125" cy="128" r="2"/>
+    <circle cx="836" cy="386" r="1.5"/><circle cx="1085" cy="406" r="2"/>
+    <circle cx="719" cy="294" r="1.5"/><circle cx="1025" cy="91" r="1.5"/>
+    <path d="M1130 333h10m-5-5v10M798 179h8m-4-4v8" stroke="#8b9cce" stroke-width="1"/>
+  </g>
+  <text x="58" y="118" class="mono" font-size="13" letter-spacing="4" fill="#65f4dc">SOFTWARE DEVELOPER / EXPLORER</text>
+  <text x="53" y="216" class="sans" font-size="94" font-weight="800" letter-spacing="-5" fill="#f0f3ff">JUAN JOSÉ</text>
+  <text x="58" y="278" class="sans" font-size="42" font-weight="700" letter-spacing="1" fill="url(#ink)">QUANTUM / HUMAN</text>
+  <g class="sans" font-size="20" fill="#a5b1cd">
+    <text x="60" y="321">Software, sistemas e ideas</text>
+    <text x="60" y="349">en superposición.</text>
+  </g>
+  <g fill="none" stroke="#343657">
+    <circle cx="963" cy="247" r="174" stroke-dasharray="2 10"/>
+    <circle cx="963" cy="247" r="143" stroke-opacity=".6"/>
+    <path d="M963 60V75m0 344v15M776 247h15m344 0h15"/>
+  </g>
+  <g class="orbit" fill="none" stroke="#65f4dc">
+    <ellipse cx="963" cy="247" rx="158" ry="61" transform="rotate(-35 963 247)" stroke-opacity=".65" stroke-width="1.5"/>
+    <circle cx="1092.4" cy="156.4" r="5" fill="#65f4dc" stroke="none"/>
+    <circle cx="1092.4" cy="156.4" r="9" fill="#65f4dc" stroke="none" filter="url(#glow)" opacity=".6"/>
+  </g>
+  <g class="orbit reverse" fill="none" stroke="#b49aff">
+    <ellipse cx="963" cy="247" rx="158" ry="61" transform="rotate(35 963 247)" stroke-opacity=".65" stroke-width="1.5"/>
+    <circle cx="833.6" cy="156.4" r="5" fill="#b49aff" stroke="none"/>
+    <circle cx="833.6" cy="156.4" r="9" fill="#b49aff" stroke="none" filter="url(#glow)" opacity=".6"/>
+  </g>
+  <g fill="none" stroke="#6276b7" stroke-width="1.5"><ellipse cx="963" cy="247" rx="61" ry="158"/></g>
+  <circle class="pulse" cx="963" cy="247" r="45" fill="#65f4dc" opacity=".12" filter="url(#glow)"/>
+  <circle cx="963" cy="247" r="31" fill="#121c2c" stroke="#65f4dc" stroke-opacity=".7"/>
+  <text x="963" y="257" class="mono" text-anchor="middle" font-size="30" fill="#e5fff9">ψ</text>
+  <text x="963" y="453" class="mono" text-anchor="middle" font-size="12" letter-spacing="2" fill="#9c91cc">| BUILD ⟩ + | EXPLORE ⟩</text>
+  <rect x="58" y="389" width="570" height="64" rx="10" fill="#080c16" stroke="#293149"/>
+  <circle cx="80" cy="410" r="3" fill="#b49aff"/><circle cx="93" cy="410" r="3" fill="#f1bd75"/><circle cx="106" cy="410" r="3" fill="#65f4dc"/>
+  <text x="80" y="436" class="mono" font-size="14" fill="#a5b1cd"><tspan fill="#65f4dc">&gt; </tspan>building things. questioning everything.</text>
+  <path class="cursor" d="M437 423v15" stroke="#65f4dc" stroke-width="8"/>
+  <path d="M58 484H1142" stroke="#262c43"/>
+  <path class="flow" d="M58 484H1142" stroke="url(#ink)" stroke-dasharray="24 216" stroke-opacity=".7"/>
+</svg>

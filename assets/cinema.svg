@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Fuera del editor — Arrival, Creed, Avatar</title>
+  <desc id="desc">Un círculo de tinta suspendido, una escalera iluminada y plantas bioluminiscentes. Ilustraciones originales sobre perspectiva, perseverancia e imaginación.</desc>
+  <defs>
+    <radialGradient id="mist"><stop stop-color="#a5b1cd" stop-opacity=".17"/><stop offset="1" stop-color="#a5b1cd" stop-opacity="0"/></radialGradient>
+    <radialGradient id="forest"><stop stop-color="#65f4dc" stop-opacity=".15"/><stop offset="1" stop-color="#65f4dc" stop-opacity="0"/></radialGradient>
+    <linearGradient id="rise" x2="0" y2="1"><stop stop-color="#f1bd75"/><stop offset="1" stop-color="#554434"/></linearGradient>
+  </defs>
+  <style>
+    .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+    .sans{font-family:Arial,Helvetica,sans-serif}
+    .spore{animation:breath 5s ease-in-out infinite}.late{animation-delay:-2.5s}
+    @keyframes breath{50%{opacity:.25}}
+    @media(prefers-reduced-motion:reduce){.spore{animation:none!important}}
+  </style>
+  <rect x="1" y="1" width="1198" height="338" rx="18" fill="#090d18" stroke="#2a3048"/>
+  <path d="M400 24V316M800 24V316" stroke="#262c43"/>
+  <g class="mono" font-size="12" letter-spacing="2" fill="#8391ae"><text x="30" y="36">01 / PERSPECTIVE</text><text x="430" y="36">02 / PERSEVERANCE</text><text x="830" y="36">03 / IMAGINATION</text></g>
+  <circle cx="200" cy="153" r="126" fill="url(#mist)"/>
+  <g fill="none" stroke="#c5cedf">
+    <circle cx="200" cy="153" r="77" stroke-width="10" stroke-dasharray="160 6 42 12 114 9 70 71" opacity=".7"/>
+    <circle cx="200" cy="153" r="73" stroke-width="3" stroke-dasharray="24 15 82 8 58 24" opacity=".6"/>
+    <path d="M129 121l-8-7m150 69l10 5m-80-108l4-12m-44 153l-6 9m101-137l8-8" stroke-width="3" opacity=".5"/>
+  </g>
+  <circle cx="200" cy="153" r="85" fill="none" stroke="#65728b" stroke-dasharray="1 13"/>
+  <path d="M463 226h40v-23h40v-23h40v-23h40v-23h40v-23h40v-23h34" fill="none" stroke="url(#rise)" stroke-width="3"/>
+  <path d="M480 225l215-138" stroke="#f1bd75" stroke-dasharray="3 8" opacity=".2"/>
+  <path d="M623 74V228M582 98V228M541 122V228M500 146V228" stroke="#f1bd75" opacity=".05" stroke-width="22"/>
+  <circle cx="703" cy="73" r="6" fill="#f1bd75"/>
+  <path d="M703 84v20m0-14l-10 9m10-9l11-6m-11 20l-8 9m8-9l8 9" stroke="#f1bd75" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="1000" cy="153" r="126" fill="url(#forest)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M1000 237Q990 150 949 107M1001 220Q1024 147 1068 118M976 238Q941 194 910 182M1025 237Q1060 204 1100 194" stroke="#38796f" stroke-width="2"/>
+    <path d="M949 107Q929 135 970 162Q977 130 949 107ZM1068 118Q1032 128 1020 170Q1067 169 1068 118ZM910 182Q916 212 961 220Q951 187 910 182ZM1100 194Q1060 182 1047 224Q1080 225 1100 194Z" stroke="#65f4dc" fill="#65f4dc" fill-opacity=".06"/>
+    <path d="M1000 234Q997 167 1004 90" stroke="#b49aff" stroke-width="2"/>
+    <path d="M1004 90Q977 122 1000 162Q1029 128 1004 90Z" stroke="#b49aff" fill="#b49aff" fill-opacity=".08"/>
+  </g>
+  <g fill="#65f4dc" class="spore"><circle cx="914" cy="103" r="2"/><circle cx="1083" cy="83" r="3"/><circle cx="1114" cy="157" r="2"/><circle cx="942" cy="232" r="2"/></g>
+  <g fill="#b49aff" class="spore late"><circle cx="962" cy="81" r="2"/><circle cx="1036" cy="66" r="2"/><circle cx="888" cy="146" r="3"/><circle cx="1085" cy="238" r="2"/></g>
+  <g class="sans" font-size="29" font-weight="700" text-anchor="middle"><text x="200" y="287" fill="#edf1ff">ARRIVAL</text><text x="600" y="287" fill="#f1bd75">CREED</text><text x="1000" y="287" fill="#65f4dc">AVATAR</text></g>
+  <g class="mono" font-size="11" letter-spacing="2" fill="#8391ae" text-anchor="middle"><text x="200" y="313">RETHINK THE QUESTION</text><text x="600" y="313">ONE MORE STEP</text><text x="1000" y="313">BUILD OTHER WORLDS</text></g>
+</svg>

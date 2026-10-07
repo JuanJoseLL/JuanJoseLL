@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="344" viewBox="0 0 1200 344" role="img" aria-labelledby="title desc">
+  <title id="title">El arsenal — herramientas de mi laboratorio</title>
+  <desc id="desc">Java, Python, TypeScript, Go; React, Next.js, Vue, Tailwind; Spring Boot, FastAPI, Django, NestJS; PostgreSQL, MongoDB, Redis, Oracle; AWS, Azure, Docker, Terraform; GitHub Actions, Jenkins, Ansible.</desc>
+  <style>.mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}.sans{font-family:Arial,Helvetica,sans-serif}</style>
+  <rect x="1" y="1" width="1198" height="342" rx="18" fill="#090d18" stroke="#2a3048"/>
+  <path d="M400 26V318M800 26V318M26 172H1174" stroke="#262c43"/>
+  <g class="mono" font-size="13" letter-spacing="2" fill="#65f4dc">
+    <text x="32" y="41">01 / LANGUAGES</text><text x="432" y="41">02 / INTERFACES</text><text x="832" y="41">03 / BACKEND</text>
+    <text x="32" y="213">04 / DATA</text><text x="432" y="213">05 / CLOUD</text><text x="832" y="213">06 / AUTOMATION</text>
+  </g>
+  <g class="sans" font-size="26" font-weight="700" fill="#edf1ff">
+    <text x="32" y="91">Java <tspan fill="#58647d">/</tspan> Python</text>
+    <text x="432" y="91">React <tspan fill="#58647d">/</tspan> Next.js</text>
+    <text x="832" y="91">Spring Boot <tspan fill="#58647d">/</tspan> FastAPI</text>
+    <text x="32" y="263">PostgreSQL <tspan fill="#58647d">/</tspan> MongoDB</text>
+    <text x="432" y="263">AWS <tspan fill="#58647d">/</tspan> Azure</text>
+    <text x="832" y="263">GitHub Actions</text>
+  </g>
+  <g class="sans" font-size="22" fill="#a5b1cd">
+    <text x="32" y="126">TypeScript · Go</text><text x="432" y="126">Vue · Tailwind CSS</text><text x="832" y="126">Django · NestJS</text>
+    <text x="32" y="298">Redis · Oracle</text><text x="432" y="298">Docker · Terraform</text><text x="832" y="298">Jenkins · Ansible</text>
+  </g>
+  <g stroke="#b49aff" stroke-width="3"><path d="M32 148h32M432 148h32M832 148h32M32 320h32M432 320h32M832 320h32"/></g>
+</svg>

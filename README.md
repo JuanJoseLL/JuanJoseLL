@@ -1,106 +1,116 @@
-# Hi there! 👋 I'm Juan José
-
 <div align="center">
-  
-**Software Developer • Quantum Computing Enthusiast • Problem Solver**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-lopez-lopez-73214b279)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanJoseLL)
+<img src="./assets/hero.svg" width="100%" alt="Juan José — Quantum / Human. Software, sistemas e ideas en superposición. Cabecera animada con órbitas cuánticas en cian y violeta." />
 
-![Profile Views](https://profile-counter.glitch.me/{JuanJoseLL}/count.svg)
+**Software developer · Explorador de computación cuántica · Constructor de ideas**
+
+[El humano](#01--el-humano) &nbsp; / &nbsp; [El arsenal](#02--el-arsenal) &nbsp; / &nbsp; [Los experimentos](#03--los-experimentos) &nbsp; / &nbsp; [Fuera del editor](#04--fuera-del-editor)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos-090D18?style=flat-square&logo=linkedin&logoColor=65F4DC&labelColor=151B2D)](https://www.linkedin.com/in/juan-jose-lopez-lopez-73214b279) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Explora_mi_código-090D18?style=flat-square&logo=github&logoColor=65F4DC&labelColor=151B2D)](https://github.com/JuanJoseLL?tab=repositories)
+
+<sub>Entre lo que ya funciona y lo que todavía parece imposible.</sub>
 
 </div>
 
----
+## 01 / El humano
 
-## 🚀 About Me
+Soy **Juan José**. Me gusta entender cómo funcionan las cosas, construir software que resuelva problemas reales y explorar qué viene después. Del backend a la interfaz, del código a la infraestructura.
 
-I'm passionate about building scalable software solutions and exploring the fascinating world of quantum computing. I love tackling complex problems and turning innovative ideas into reality.
+La **computación cuántica** despierta mi curiosidad. La **inteligencia artificial**, los **sistemas distribuidos** y las buenas preguntas me mantienen construyendo.
 
-<img align="right" alt="Coding Animation" width="300" src="https://user-images.githubusercontent.com/103261155/228106848-42aaf064-c1d8-4b48-90dc-6b3444cd94c4.gif"/>
+```text
+juan@lab:~$ cat mindset.txt
 
-- 🔭 Currently working on quantum computing projects
-- 🌱 Always learning new technologies
-- 💡 Open to collaborating on interesting projects
-- ⚡ Fun fact: I believe the best code is simple code
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+  construir   →  hacer que una idea funcione en el mundo real
+  entender    →  ir más allá del «porque así se hace»
+  simplificar →  el mejor código no necesita presumir
+  compartir   →  las buenas ideas crecen en compañía
+```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanJoseLL&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseLL&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="./assets/quantum-signal.gif" width="100%" alt="Animación original: una señal recorre un circuito y alimenta un núcleo de partículas en órbita. De la curiosidad al código." />
+  <br />
+  <sub>FIG. 01 &nbsp; — &nbsp; De una pregunta a algo que funciona.</sub>
 </div>
 
+## 02 / El arsenal
+
+Las herramientas cambian. La curiosidad se queda.
+
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/stack-mobile.svg" />
+  <img src="./assets/stack.svg" width="100%" alt="Lenguajes: Java, Python, TypeScript y Go. Interfaces: React, Next.js, Vue y Tailwind. Backend: Spring Boot, FastAPI, Django y NestJS. Datos: PostgreSQL, MongoDB, Redis y Oracle. Cloud: AWS, Azure, Docker y Terraform. Automatización: GitHub Actions, Jenkins y Ansible." />
+</picture>
+
+<details>
+<summary><strong>Ver el inventario en modo texto</strong></summary>
+
+| Capa | Herramientas |
+| :--- | :--- |
+| Lenguajes | Java · Python · TypeScript · Go |
+| Interfaces | React · Next.js · Vue · Tailwind CSS |
+| Backend | Spring Boot · FastAPI · Django · NestJS |
+| Datos | PostgreSQL · MongoDB · Redis · Oracle |
+| Cloud e infraestructura | AWS · Azure · Docker · Terraform |
+| Automatización | GitHub Actions · Jenkins · Ansible |
+
+</details>
+
+## 03 / Los experimentos
+
+Ideas que salieron del editor y se convirtieron en repositorios.
+
+| Experimento | Qué hay dentro |
+| :--- | :--- |
+| [**01 — Stock Recommender ↗**](https://github.com/JuanJoseLL/stock-recommender) | Análisis de acciones, recomendaciones y una aplicación de extremo a extremo. **Go · Vue · AWS · Terraform** |
+| [**02 — Agentic RAG ↗**](https://github.com/JuanJoseLL/agentic-rag-langGraph) | Un laboratorio de recuperación de información y agentes. **Python · LangGraph** |
+| [**03 — API Gateway ↗**](https://github.com/JuanJoseLL/api-gateway) | Una pieza de mi exploración de arquitecturas de microservicios. **Java** |
+| [**04 — Multi-database App ↗**](https://github.com/JuanJoseLL/sid-project) | PostgreSQL, MongoDB y Redis conviviendo en una aplicación. **TypeScript** |
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJoseLL&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+[**Ver el resto del laboratorio →**](https://github.com/JuanJoseLL?tab=repositories)
+
 </div>
 
----
+## 04 / Fuera del editor
 
-## 🎬 Favorite Films
+También me gustan las historias que dejan algo dando vueltas en la cabeza.
 
-> *Great stories inspire great code*
+<img src="./assets/cinema.svg" width="100%" alt="Tres ilustraciones originales inspiradas en mis películas favoritas: un círculo de tinta para Arrival, una escalera ascendente para Creed y un bosque bioluminiscente para Avatar." />
 
-| 🎭 **Genre** | 🎬 **Film** | 💭 **Why I Love It** |
-|:---:|:---:|:---|
-| 🚀 Sci-Fi | **Arrival** | Innovative storytelling and deep philosophical themes |
-| 🥊 Action | **Creed** | Character development and motivational journey |
-| 🌍 Adventure | **Avatar** | Groundbreaking visuals and world-building |
+| Arrival | Creed | Avatar |
+| :--- | :--- | :--- |
+| Cambiar la perspectiva puede cambiarlo todo. | Avanzar también es volver a intentarlo. | Imaginar mundos es el primer paso para construirlos. |
 
----
+<br />
 
-## 🏆 Achievements
+<details>
+<summary><strong>⟨ ψ ⟩ &nbsp; Hay dos estados posibles. Haz clic para colapsar la función de onda.</strong></summary>
+
+<br />
+
+```text
+                    ┌────────────────────────────┐
+                    │                            │
+                    │   IDEA  ────────►  CÓDIGO  │
+                    │     ▲                │     │
+                    │     └── APRENDER ◄───┘     │
+                    │                            │
+                    │   No era magia.            │
+                    │   Era curiosidad + café.   │
+                    │                            │
+                    └────────────────────────────┘
+```
+
+</details>
+
+<br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JuanJoseLL&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
-</div>
 
----
+<img src="./assets/footer.svg" width="100%" alt="Fin de la transmisión. La curiosidad sigue en línea." />
 
-<div align="center">
-  
-### 💬 Let's Connect!
-
-*Always open to interesting conversations about technology, quantum computing, or your next big idea.*
-
-**Happy Coding!** 🚀
+<sub>Hecho con código, curiosidad y unas cuantas partículas fuera de lugar.</sub>
 
 </div>

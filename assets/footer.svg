@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-labelledby="title">
+  <title id="title">Fin de la transmisión — la curiosidad sigue en línea</title>
+  <defs><linearGradient id="signal"><stop stop-color="#65f4dc"/><stop offset="1" stop-color="#b49aff"/></linearGradient></defs>
+  <style>
+    text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+    .signal{animation:travel 18s linear infinite}.light{animation:breathe 4s ease-in-out infinite}
+    @keyframes travel{to{stroke-dashoffset:-1200}}@keyframes breathe{50%{opacity:.35}}
+    @media(prefers-reduced-motion:reduce){.signal,.light{animation:none!important}}
+  </style>
+  <rect x="1" y="1" width="1198" height="128" rx="16" fill="#090d18" stroke="#2a3048"/>
+  <path d="M40 31H1160" stroke="#262c43"/>
+  <path class="signal" d="M40 31H1160" stroke="url(#signal)" stroke-width="2" stroke-dasharray="70 1130"/>
+  <text x="600" y="70" text-anchor="middle" font-size="16" letter-spacing="4" fill="#edf1ff">END OF TRANSMISSION</text>
+  <circle class="light" cx="433" cy="96" r="3" fill="#65f4dc"/>
+  <text x="451" y="100" font-size="12" letter-spacing="2" fill="#9cabc5">CURIOSITY IS STILL ONLINE</text>
+</svg>
