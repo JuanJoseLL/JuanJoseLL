@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Juan José — Quantum / Human. Software, sistemas e ideas en superposición. Cabecera animada con órbitas cuánticas en cian y violeta." />
+<img src="./assets/hero.svg" width="100%" alt="Juan José — Quantum / Human. Un experimento de doble rendija animado: las partículas cruzan dos rendijas y en la pantalla forman el nombre JUAN JOSÉ; al observarlo, la función de onda colapsa en letras sólidas." />
 
-**Software developer · Explorador de computación cuántica · Constructor de ideas**
+<br />
 
-[El humano](#01--el-humano) &nbsp; / &nbsp; [El arsenal](#02--el-arsenal) &nbsp; / &nbsp; [Los experimentos](#03--los-experimentos) &nbsp; / &nbsp; [Fuera del editor](#04--fuera-del-editor)
+<a href="https://www.linkedin.com/in/juan-jose-lopez-lopez-73214b279"><img src="./assets/btn-linkedin.svg" height="52" alt="Hablemos en LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/JuanJoseLL?tab=repositories"><img src="./assets/btn-repos.svg" height="52" alt="Explora mis repositorios" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos-090D18?style=flat-square&logo=linkedin&logoColor=65F4DC&labelColor=151B2D)](https://www.linkedin.com/in/juan-jose-lopez-lopez-73214b279) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Explora_mi_código-090D18?style=flat-square&logo=github&logoColor=65F4DC&labelColor=151B2D)](https://github.com/JuanJoseLL?tab=repositories)
-
-<sub>Entre lo que ya funciona y lo que todavía parece imposible.</sub>
+<sub>[01 · El humano](#01--el-humano) &nbsp;/&nbsp; [02 · El detector](#02--el-detector) &nbsp;/&nbsp; [03 · El arsenal](#03--el-arsenal) &nbsp;/&nbsp; [04 · Los experimentos](#04--los-experimentos) &nbsp;/&nbsp; [05 · Fuera del editor](#05--fuera-del-editor)</sub>
 
 </div>
 
+<br />
+
 ## 01 / El humano
 
-Soy **Juan José**. Me gusta entender cómo funcionan las cosas, construir software que resuelva problemas reales y explorar qué viene después. Del backend a la interfaz, del código a la infraestructura.
+Soy **Juan José**, software developer. Me gusta entender cómo funcionan las cosas por dentro y construir software que resuelva problemas reales: del backend a la interfaz, del código a la infraestructura.
 
 La **computación cuántica** despierta mi curiosidad. La **inteligencia artificial**, los **sistemas distribuidos** y las buenas preguntas me mantienen construyendo.
 
@@ -25,47 +25,50 @@ juan@lab:~$ cat mindset.txt
   entender    →  ir más allá del «porque así se hace»
   simplificar →  el mejor código no necesita presumir
   compartir   →  las buenas ideas crecen en compañía
+  acelerar    →  velocidad, soy veloz ⚡
 ```
 
-<div align="center">
-  <img src="./assets/quantum-signal.gif" width="100%" alt="Animación original: una señal recorre un circuito y alimenta un núcleo de partículas en órbita. De la curiosidad al código." />
-  <br />
-  <sub>FIG. 01 &nbsp; — &nbsp; De una pregunta a algo que funciona.</sub>
-</div>
+## 02 / El detector
 
-## 02 / El arsenal
+Esto no es una captura: es una medición. Cada noche una GitHub Action consulta mi actividad y vuelve a dibujar este detector. Cada torre del anillo es un día del último año; los días más intensos disparan trazas desde el vértice.
+
+<img src="./assets/detector.svg" width="100%" alt="Detector de actividad: un año de contribuciones en GitHub dibujado como un detector de partículas, con una torre por día alrededor de un anillo, el total del año, días activos, rachas, día pico y el espectro semanal. Se actualiza a diario." />
+
+## 03 / El arsenal
 
 Las herramientas cambian. La curiosidad se queda.
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/stack-mobile.svg" />
-  <img src="./assets/stack.svg" width="100%" alt="Lenguajes: Java, Python, TypeScript y Go. Interfaces: React, Next.js, Vue y Tailwind. Backend: Spring Boot, FastAPI, Django y NestJS. Datos: PostgreSQL, MongoDB, Redis y Oracle. Cloud: AWS, Azure, Docker y Terraform. Automatización: GitHub Actions, Jenkins y Ansible." />
+  <img src="./assets/stack.svg" width="100%" alt="Tabla periódica del stack. Lenguajes: Java, Python, TypeScript y Go. Interfaces: React, Next.js, Vue y Tailwind CSS. Backend: Spring Boot, FastAPI, Django y NestJS. Datos: PostgreSQL, MongoDB, Redis y Oracle. Cloud: AWS, Azure, Docker y Terraform. DevOps e IA: GitHub Actions, Jenkins, Ansible y LangGraph." />
 </picture>
 
 <details>
 <summary><strong>Ver el inventario en modo texto</strong></summary>
 
-| Capa | Herramientas |
+| Grupo | Elementos |
 | :--- | :--- |
-| Lenguajes | Java · Python · TypeScript · Go |
-| Interfaces | React · Next.js · Vue · Tailwind CSS |
-| Backend | Spring Boot · FastAPI · Django · NestJS |
-| Datos | PostgreSQL · MongoDB · Redis · Oracle |
-| Cloud e infraestructura | AWS · Azure · Docker · Terraform |
-| Automatización | GitHub Actions · Jenkins · Ansible |
+| G1 · Lenguajes | Java · Python · TypeScript · Go |
+| G2 · Interfaces | React · Next.js · Vue · Tailwind CSS |
+| G3 · Backend | Spring Boot · FastAPI · Django · NestJS |
+| G4 · Datos | PostgreSQL · MongoDB · Redis · Oracle |
+| G5 · Cloud | AWS · Azure · Docker · Terraform |
+| G6 · DevOps e IA | GitHub Actions · Jenkins · Ansible · LangGraph |
 
 </details>
 
-## 03 / Los experimentos
+## 04 / Los experimentos
 
-Ideas que salieron del editor y se convirtieron en repositorios.
+Ideas que salieron del editor y se convirtieron en repositorios. Cada tarjeta lleva a su código.
 
-| Experimento | Qué hay dentro |
-| :--- | :--- |
-| [**01 — Stock Recommender ↗**](https://github.com/JuanJoseLL/stock-recommender) | Análisis de acciones, recomendaciones y una aplicación de extremo a extremo. **Go · Vue · AWS · Terraform** |
-| [**02 — Agentic RAG ↗**](https://github.com/JuanJoseLL/agentic-rag-langGraph) | Un laboratorio de recuperación de información y agentes. **Python · LangGraph** |
-| [**03 — API Gateway ↗**](https://github.com/JuanJoseLL/api-gateway) | Una pieza de mi exploración de arquitecturas de microservicios. **Java** |
-| [**04 — Multi-database App ↗**](https://github.com/JuanJoseLL/sid-project) | PostgreSQL, MongoDB y Redis conviviendo en una aplicación. **TypeScript** |
+<p align="center">
+  <a href="https://github.com/JuanJoseLL/stock-recommender"><img src="./assets/exp-stock.svg" width="49%" alt="EXP. 002 — Stock Recommender: datos de mercado, motor de recomendación multifactor BUY, HOLD y WATCH, API en Go, frontend en Vue y despliegue en AWS con Terraform, Ansible y GitHub Actions." /></a>
+  <a href="https://github.com/JuanJoseLL/agentic-rag-langGraph"><img src="./assets/exp-rag.svg" width="49%" alt="EXP. 003 — Agentic RAG: un agente en LangGraph que decide cuándo recuperar contexto y cuándo responder." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/JuanJoseLL/api-gateway"><img src="./assets/exp-gateway.svg" width="49%" alt="EXP. 004 — API Gateway: Spring Cloud Gateway con JWT, descubrimiento con Eureka y rutas balanceadas hacia microservicios." /></a>
+  <a href="https://github.com/JuanJoseLL/sid-project"><img src="./assets/exp-multidb.svg" width="49%" alt="EXP. 005 — Multi-database App: PostgreSQL, MongoDB y Redis conviviendo en una sola aplicación NestJS." /></a>
+</p>
 
 <div align="center">
 
@@ -73,35 +76,20 @@ Ideas que salieron del editor y se convirtieron en repositorios.
 
 </div>
 
-## 04 / Fuera del editor
+## 05 / Fuera del editor
 
 También me gustan las historias que dejan algo dando vueltas en la cabeza.
 
-<img src="./assets/cinema.svg" width="100%" alt="Tres ilustraciones originales inspiradas en mis películas favoritas: un círculo de tinta para Arrival, una escalera ascendente para Creed y un bosque bioluminiscente para Avatar." />
-
-| Arrival | Creed | Avatar |
-| :--- | :--- | :--- |
-| Cambiar la perspectiva puede cambiarlo todo. | Avanzar también es volver a intentarlo. | Imaginar mundos es el primer paso para construirlos. |
+<img src="./assets/cinema.svg" width="100%" alt="Tres ilustraciones originales animadas: un logograma de tinta que se dibuja solo para Arrival, una escalera hacia el amanecer para Creed y un bosque bioluminiscente con semillas flotantes para Avatar." />
 
 <br />
 
 <details>
-<summary><strong>⟨ ψ ⟩ &nbsp; Hay dos estados posibles. Haz clic para colapsar la función de onda.</strong></summary>
+<summary><strong>⟨ψ⟩ &nbsp; Hay dos estados posibles. Haz clic para colapsar la función de onda.</strong></summary>
 
 <br />
 
-```text
-                    ┌────────────────────────────┐
-                    │                            │
-                    │   IDEA  ────────►  CÓDIGO  │
-                    │     ▲                │     │
-                    │     └── APRENDER ◄───┘     │
-                    │                            │
-                    │   No era magia.            │
-                    │   Era curiosidad + café.   │
-                    │                            │
-                    └────────────────────────────┘
-```
+<img src="./assets/collapse.svg" width="100%" alt="La caja de Schrödinger del código: los tests pasan y fallan a la vez hasta que alguien los observa, y el estado colapsa en 42 tests pasando." />
 
 </details>
 
@@ -109,8 +97,8 @@ También me gustan las historias que dejan algo dando vueltas en la cabeza.
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Fin de la transmisión. La curiosidad sigue en línea." />
+<img src="./assets/footer.svg" width="100%" alt="Fin de la transmisión. La curiosidad sigue en línea. Firma: Juan José." />
 
-<sub>Hecho con código, curiosidad y unas cuantas partículas fuera de lugar.</sub>
+<sub>Cada imagen de este perfil está dibujada con código en <a href="./scripts"><code>scripts/</code></a>: tipografía convertida en vectores, partículas y un detector que se recalibra solo cada día.</sub>
 
 </div>

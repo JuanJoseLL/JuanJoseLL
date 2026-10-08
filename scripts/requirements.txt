@@ -1,0 +1,5 @@
+# Typesetting (text is drawn from the bundled OFL fonts, no web fonts needed)
+fonttools==4.66.1
+uharfbuzz==0.56.3
+# Only for the hero: samples particle positions inside the glyphs
+pillow==12.3.0
